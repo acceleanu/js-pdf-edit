@@ -1,0 +1,11 @@
+{
+  "name": "pdf-split",
+  "version": "1.0.0",
+  "description": "split pdf into odd/even pages",
+  "main": "index.js",
+  "author": "Dan Acceleanu",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-lib": "^1.6.0"
+  }
+}
